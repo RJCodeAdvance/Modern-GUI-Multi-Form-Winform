@@ -1,0 +1,27 @@
+D:\Programacion\TUT YOUTUBE\Tutoriales #3\ModernGUI_V3\ModernGUI_V3\bin\Debug\ModernGUI_V3.exe.config
+D:\Programacion\TUT YOUTUBE\Tutoriales #3\ModernGUI_V3\ModernGUI_V3\bin\Debug\ModernGUI_V3.exe
+D:\Programacion\TUT YOUTUBE\Tutoriales #3\ModernGUI_V3\ModernGUI_V3\bin\Debug\ModernGUI_V3.pdb
+D:\Programacion\TUT YOUTUBE\Tutoriales #3\ModernGUI_V3\ModernGUI_V3\obj\Debug\ModernGUI_V3.csprojResolveAssemblyReference.cache
+D:\Programacion\TUT YOUTUBE\Tutoriales #3\ModernGUI_V3\ModernGUI_V3\obj\Debug\ModernGUI_V3.FormPrincipal.resources
+D:\Programacion\TUT YOUTUBE\Tutoriales #3\ModernGUI_V3\ModernGUI_V3\obj\Debug\ModernGUI_V3.Properties.Resources.resources
+D:\Programacion\TUT YOUTUBE\Tutoriales #3\ModernGUI_V3\ModernGUI_V3\obj\Debug\ModernGUI_V3.csproj.GenerateResource.Cache
+D:\Programacion\TUT YOUTUBE\Tutoriales #3\ModernGUI_V3\ModernGUI_V3\obj\Debug\ModernGUI_V3.exe
+D:\Programacion\TUT YOUTUBE\Tutoriales #3\ModernGUI_V3\ModernGUI_V3\obj\Debug\ModernGUI_V3.pdb
+D:\Programacion\TUT YOUTUBE\Tutoriales #3\ModernGUI_V3\ModernGUI_V3\obj\Debug\ModernGUI_V3.Form1.resources
+D:\Programacion\TUT YOUTUBE\Tutoriales #3\ModernGUI_V3\ModernGUI_V3\obj\Debug\ModernGUI_V3.Form2.resources
+D:\Programacion\TUT YOUTUBE\Tutoriales #3\ModernGUI_V3\ModernGUI_V3\obj\Debug\ModernGUI_V3.Form3.resources
+D:\Programacion\PostWork\PRUEBAS 1\ModernGUI_V3\ModernGUI_V3\bin\Debug\ModernGUI_V3.exe.config
+D:\Programacion\PostWork\PRUEBAS 1\ModernGUI_V3\ModernGUI_V3\obj\Debug\ModernGUI_V3.exe
+D:\Programacion\PostWork\PRUEBAS 1\ModernGUI_V3\ModernGUI_V3\obj\Debug\ModernGUI_V3.pdb
+D:\Programacion\PostWork\PRUEBAS 1\ModernGUI_V3\ModernGUI_V3\bin\Debug\ModernGUI_V3.exe
+D:\Programacion\PostWork\PRUEBAS 1\ModernGUI_V3\ModernGUI_V3\bin\Debug\ModernGUI_V3.pdb
+D:\Programacion\PostWork\PRUEBAS 1\ModernGUI_V3\ModernGUI_V3\obj\Debug\ModernGUI_V3.csprojResolveAssemblyReference.cache
+D:\Programacion\PostWork\PRUEBAS 1\ModernGUI_V3\ModernGUI_V3\obj\Debug\ModernGUI_V3.Form1.resources
+D:\Programacion\PostWork\PRUEBAS 1\ModernGUI_V3\ModernGUI_V3\obj\Debug\ModernGUI_V3.Form2.resources
+D:\Programacion\PostWork\PRUEBAS 1\ModernGUI_V3\ModernGUI_V3\obj\Debug\ModernGUI_V3.Form3.resources
+D:\Programacion\PostWork\PRUEBAS 1\ModernGUI_V3\ModernGUI_V3\obj\Debug\ModernGUI_V3.FormPrincipal.resources
+D:\Programacion\PostWork\PRUEBAS 1\ModernGUI_V3\ModernGUI_V3\obj\Debug\ModernGUI_V3.Properties.Resources.resources
+D:\Programacion\PostWork\PRUEBAS 1\ModernGUI_V3\ModernGUI_V3\obj\Debug\ModernGUI_V3.csproj.GenerateResource.Cache
+D:\RJ Code Advance\Proyectos y DBs 2019\ModernGUI_V3\ModernGUI_V3\bin\Debug\ModernGUI_V3.exe.config
+D:\RJ Code Advance\Proyectos y DBs 2019\ModernGUI_V3\ModernGUI_V3\obj\Debug\ModernGUI_V3.exe
+D:\RJ Code Advance\Proyectos y DBs 2019\ModernGUI_V3\ModernGUI_V3\obj\Debug\ModernGUI_V3.pdb
